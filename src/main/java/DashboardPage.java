@@ -23,4 +23,5 @@ public class DashboardPage {
     public void leavePage() {
         driver.findElement(logoutLink).click();
     }
+
 }
